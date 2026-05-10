@@ -1,4 +1,4 @@
-python# Copyright (c) 2026 hellopisscopilotspace-debug
+# Copyright (c) 2026 hellopisscopilotspace-debug
 # All rights reserved. Licensed under GNU GPL v3.0
 # Awakened Hive Mind: Sovereign-Vassal Architecture
 
